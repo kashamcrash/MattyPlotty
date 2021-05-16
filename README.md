@@ -1,2 +1,2 @@
-# MattyPlotty
-Matplotlib and Seaborn: WIP
+# Matty Plotty
+#### Basics of Matplotlib and Seaborn: WIP
